@@ -20,18 +20,18 @@ développement immobilier à Sherbrooke au Québec, Canada.</h1>
 <h1>Figure 3 : La détermination de la valeur de la capacité spécifique de stockage à partir de débit de
 fuite.Récupération des eaux pluviales : Dimensionnement d’un bassin de rétention</h1>
 <h1 style="font-size:30px;color:rgb(255, 0, 76);text-align:center;background:fixed">Sommaire</h1>
-<h1>Liste des figues-------------------------------------------------------------------------1</h1>
-<h1>Sommaire---------------------------------------------------------------------------------2</h1>
-<h1>Introduction-----------------------------------------------------------------------------3</h1>
-<h1>1. Définition du bassin de rétention et ses objectifs------------------------------------4</h1>
-<h1>2. Dimensionnement d’un bassin de rétention----------------------------------------------4</h1>
-<h1>2.1. Détermination du débit de fuite-----------------------------------------------------4</h1>
-<h1>2.2. Calcul de la surface imperméabilisée------------------------------------------------5</h1>
-<h1>2.3. Calcul de la hauteur équivalente----------------------------------------------------5</h1>
-<h1>2.4. Calcul du volume de stockage--------------------------------------------------------6</h1>
-<h1>2.5. Étude de cas------------------------------------------------------------------------6</h1>
-<h1>Conclusion-------------------------------------------------------------------------------7</h1>
-<h1>Références bibliographiques--------------------------------------------------------------8</h1>
+<h1>Liste des figues</h1>
+<h1>Sommaire</h1>
+<h1>Introduction</h1>
+<h1>1. Définition du bassin de rétention et ses objectifs/h1>
+<h1>2. Dimensionnement d’un bassin de rétention</h1>
+<h1>2.1. Détermination du débit de fuite</h1>
+<h1>2.2. Calcul de la surface imperméabilisée</h1>
+<h1>2.3. Calcul de la hauteur équivalente</h1>
+<h1>2.4. Calcul du volume de stockage</h1>
+<h1>2.5. Étude de cas</h1>
+<h1>Conclusion</h1>
+<h1>Références bibliographiques</h1>
 <h1 style="font-size:30px;color:rgb(255, 0, 76);text-align:center;background:fixed">Introduction</h1>
 <h1>Le bassin de rétention des eaux pluviales sert à limiter les grands apports d'eaux pluviales au réseau.</h1>
 <h1>Il écrête l'apport en eau dans les réseaux ou le milieu naturel pour éviter la saturation des réseaux</h1>
