@@ -1,5 +1,4 @@
 # rapport
-<!DOCTYPE html>
 <html>
   <head>
     <title style="font-size:30px;color:rgb(255, 230, 0);text-align:center;background:fixed">Dimensionnement d’un bassin de rétention</title>
